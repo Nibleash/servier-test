@@ -1,0 +1,428 @@
+{
+  "nodes": [
+    {
+      "id": "diphenhydramine",
+      "type": "drug"
+    },
+    {
+      "id": "tetracycline",
+      "type": "drug"
+    },
+    {
+      "id": "ethanol",
+      "type": "drug"
+    },
+    {
+      "id": "atropine",
+      "type": "drug"
+    },
+    {
+      "id": "epinephrine",
+      "type": "drug"
+    },
+    {
+      "id": "isoprenaline",
+      "type": "drug"
+    },
+    {
+      "id": "betamethasone",
+      "type": "drug"
+    },
+    {
+      "id": "journal of emergency nursing",
+      "type": "journal"
+    },
+    {
+      "id": "the journal of pediatrics",
+      "type": "journal"
+    },
+    {
+      "id": "journal of food protection",
+      "type": "journal"
+    },
+    {
+      "id": "american journal of veterinary research",
+      "type": "journal"
+    },
+    {
+      "id": "psychopharmacology",
+      "type": "journal"
+    },
+    {
+      "id": "the journal of allergy and clinical immunology. in practice",
+      "type": "journal"
+    },
+    {
+      "id": "journal of photochemistry and photobiology. b, biology",
+      "type": "journal"
+    },
+    {
+      "id": "the journal of maternal-fetal & neonatal medicine",
+      "type": "journal"
+    },
+    {
+      "id": "journal of back and musculoskeletal rehabilitation",
+      "type": "journal"
+    },
+    {
+      "id": "journal of emergency nursing",
+      "type": "journal"
+    },
+    {
+      "id": "hopitaux universitaires de geneve",
+      "type": "journal"
+    },
+    {
+      "id": "PubMed",
+      "type": "publication_type"
+    },
+    {
+      "id": "Clinical Trial",
+      "type": "publication_type"
+    }
+  ],
+  "links": [
+    {
+      "source": "journal of emergency nursing",
+      "target": "diphenhydramine",
+      "type": "contain_drug",
+      "date": "2019-01-01"
+    },
+    {
+      "source": "diphenhydramine",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "2019-01-01"
+    },
+    {
+      "source": "PubMed",
+      "target": "journal of emergency nursing",
+      "type": "published_in",
+      "date": "2019-01-01"
+    },
+    {
+      "source": "journal of emergency nursing",
+      "target": "diphenhydramine",
+      "type": "contain_drug",
+      "date": "2019-01-01"
+    },
+    {
+      "source": "diphenhydramine",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "2019-01-01"
+    },
+    {
+      "source": "PubMed",
+      "target": "journal of emergency nursing",
+      "type": "published_in",
+      "date": "2019-01-01"
+    },
+    {
+      "source": "the journal of pediatrics",
+      "target": "diphenhydramine",
+      "type": "contain_drug",
+      "date": "2019-02-01"
+    },
+    {
+      "source": "diphenhydramine",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "2019-02-01"
+    },
+    {
+      "source": "PubMed",
+      "target": "the journal of pediatrics",
+      "type": "published_in",
+      "date": "2019-02-01"
+    },
+    {
+      "source": "journal of emergency nursing",
+      "target": "diphenhydramine",
+      "type": "contain_drug",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "diphenhydramine",
+      "target": "Clinical Trial",
+      "type": "mentionned_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "Clinical Trial",
+      "target": "journal of emergency nursing",
+      "type": "published_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "journal of emergency nursing",
+      "target": "diphenhydramine",
+      "type": "contain_drug",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "diphenhydramine",
+      "target": "Clinical Trial",
+      "type": "mentionned_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "Clinical Trial",
+      "target": "journal of emergency nursing",
+      "type": "published_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "journal of emergency nursing",
+      "target": "diphenhydramine",
+      "type": "contain_drug",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "diphenhydramine",
+      "target": "Clinical Trial",
+      "type": "mentionned_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "Clinical Trial",
+      "target": "journal of emergency nursing",
+      "type": "published_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "journal of food protection",
+      "target": "tetracycline",
+      "type": "contain_drug",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "tetracycline",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "PubMed",
+      "target": "journal of food protection",
+      "type": "published_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "american journal of veterinary research",
+      "target": "tetracycline",
+      "type": "contain_drug",
+      "date": "2020-02-01"
+    },
+    {
+      "source": "tetracycline",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "2020-02-01"
+    },
+    {
+      "source": "PubMed",
+      "target": "american journal of veterinary research",
+      "type": "published_in",
+      "date": "2020-02-01"
+    },
+    {
+      "source": "psychopharmacology",
+      "target": "tetracycline",
+      "type": "contain_drug",
+      "date": "NaT"
+    },
+    {
+      "source": "tetracycline",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "NaT"
+    },
+    {
+      "source": "PubMed",
+      "target": "psychopharmacology",
+      "type": "published_in",
+      "date": "NaT"
+    },
+    {
+      "source": "psychopharmacology",
+      "target": "ethanol",
+      "type": "contain_drug",
+      "date": "NaT"
+    },
+    {
+      "source": "ethanol",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "NaT"
+    },
+    {
+      "source": "PubMed",
+      "target": "psychopharmacology",
+      "type": "published_in",
+      "date": "NaT"
+    },
+    {
+      "source": "the journal of maternal-fetal & neonatal medicine",
+      "target": "atropine",
+      "type": "contain_drug",
+      "date": "2020-01-03"
+    },
+    {
+      "source": "atropine",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "2020-01-03"
+    },
+    {
+      "source": "PubMed",
+      "target": "the journal of maternal-fetal & neonatal medicine",
+      "type": "published_in",
+      "date": "2020-01-03"
+    },
+    {
+      "source": "the journal of allergy and clinical immunology. in practice",
+      "target": "epinephrine",
+      "type": "contain_drug",
+      "date": "2020-01-02"
+    },
+    {
+      "source": "epinephrine",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "2020-01-02"
+    },
+    {
+      "source": "PubMed",
+      "target": "the journal of allergy and clinical immunology. in practice",
+      "type": "published_in",
+      "date": "2020-01-02"
+    },
+    {
+      "source": "the journal of allergy and clinical immunology. in practice",
+      "target": "epinephrine",
+      "type": "contain_drug",
+      "date": "2020-01-03"
+    },
+    {
+      "source": "epinephrine",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "2020-01-03"
+    },
+    {
+      "source": "PubMed",
+      "target": "the journal of allergy and clinical immunology. in practice",
+      "type": "published_in",
+      "date": "2020-01-03"
+    },
+    {
+      "source": "journal of emergency nursing",
+      "target": "epinephrine",
+      "type": "contain_drug",
+      "date": "2020-04-27"
+    },
+    {
+      "source": "epinephrine",
+      "target": "Clinical Trial",
+      "type": "mentionned_in",
+      "date": "2020-04-27"
+    },
+    {
+      "source": "Clinical Trial",
+      "target": "journal of emergency nursing",
+      "type": "published_in",
+      "date": "2020-04-27"
+    },
+    {
+      "source": "journal of photochemistry and photobiology. b, biology",
+      "target": "isoprenaline",
+      "type": "contain_drug",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "isoprenaline",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "PubMed",
+      "target": "journal of photochemistry and photobiology. b, biology",
+      "type": "published_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "the journal of maternal-fetal & neonatal medicine",
+      "target": "betamethasone",
+      "type": "contain_drug",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "betamethasone",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "PubMed",
+      "target": "the journal of maternal-fetal & neonatal medicine",
+      "type": "published_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "journal of back and musculoskeletal rehabilitation",
+      "target": "betamethasone",
+      "type": "contain_drug",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "betamethasone",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "PubMed",
+      "target": "journal of back and musculoskeletal rehabilitation",
+      "type": "published_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "the journal of maternal-fetal & neonatal medicine",
+      "target": "betamethasone",
+      "type": "contain_drug",
+      "date": "2020-01-03"
+    },
+    {
+      "source": "betamethasone",
+      "target": "PubMed",
+      "type": "mentionned_in",
+      "date": "2020-01-03"
+    },
+    {
+      "source": "PubMed",
+      "target": "the journal of maternal-fetal & neonatal medicine",
+      "type": "published_in",
+      "date": "2020-01-03"
+    },
+    {
+      "source": "hopitaux universitaires de geneve",
+      "target": "betamethasone",
+      "type": "contain_drug",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "betamethasone",
+      "target": "Clinical Trial",
+      "type": "mentionned_in",
+      "date": "2020-01-01"
+    },
+    {
+      "source": "Clinical Trial",
+      "target": "hopitaux universitaires de geneve",
+      "type": "published_in",
+      "date": "2020-01-01"
+    }
+  ]
+}
